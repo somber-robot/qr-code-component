@@ -4,4 +4,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.png)
 
-Live Site URL: [Add live site URL here](https://somber-robot.github.io/qr-code-component/)
+Live Site URL: [Qr Component](https://somber-robot.github.io/qr-code-component/)
